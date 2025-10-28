@@ -64,7 +64,7 @@ body {
 
     line-height: var(--line-preset-1);
 
-    padding: var(--space-300);
+    padding-inline: var(--space-300);
 }
 
 /* Globals */
