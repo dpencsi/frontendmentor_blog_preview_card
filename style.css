@@ -177,9 +177,3 @@ img {
     font-weight: 800;
     color: var(--gray-950);
 }
-
-@media (min-width: 23.4375rem) {
-    main {
-        padding: 0;
-    }
-}
